@@ -35,6 +35,12 @@ h2, h3 {
   text-align: center;
 }
 
+.text-justify {
+  text-align: justify;
+}
+
+
+
 .img-circle {
   border-radius: 50%;
 }
@@ -63,6 +69,8 @@ h2, h3 {
 
 .img-medium {
   height: 100px;
+  display: block;
+  margin:0 auto
 }
 
 .list-inline > li {
